@@ -14,3 +14,7 @@ Our methodology includes a procedure for analysis writing, source codes organizi
   - Structuring into logical units called Tasks
   - Clear logs from individual Task runs, relations included; visualization of the most problematic Tasks
   - DevOps automation support: “on-click” deployment, program tests, and automated deployment across environments, program tests execution included
+
+**Learn more**
+- [CDS Plugin Development Framework CZ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4zhHD)
+- [CDS Plugin Development Framework EN](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4zhHE)
