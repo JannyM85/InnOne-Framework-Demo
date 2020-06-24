@@ -1,2 +1,16 @@
 # InnOne-Framework-Demo
-Example implementation of CDS Plugin Development Framework
+This repository contains example CDS plugin implementation, realized by [CDS Plugin Development Framework](https://appsource.microsoft.com/en/product/dynamics-365/innovationonesro1585927428411.plugindevframework?tab=Overview). 
+# CDS Plugin Development Framework
+CDS Plugin Development Framework consists of a solution in CRM, which offers detailed diagnostic information in well-arranged dashboards.  Integrated into the solution, there is also a set of DLL libraries, which creates a middleware between standard Microsoft SDK and customer logic implementation. The logic is implemented as tasks launched in a defined order. Each task then generates diagnostic information, which helps to understand how the implemented logic behaves as well as contributes to quick development and efficient error corrections. 
+
+Our methodology includes a procedure for analysis writing, source codes organizing, solutions testing, as well as automated deployment right from Microsoft Azure DevOps.
+
+[Innovation One s.r.o](https://innone.cz/) with the support of CDS Plugin Development Framework can help you analyze your business issues and correctly set the methods of development tailor-made right to your needs. 
+
+**Key Properties**
+  - Middleware between the implemented logic in plugins and standard Microsoft SDK
+  - Tool interconnecting the customer logic analysis with the written code, program testing included
+  - Helps to achieve a clear and understandable structure and organization of coding
+  - Structuring into logical units called Tasks
+  - Clear logs from individual Task runs, relations included; visualization of the most problematic Tasks
+  - DevOps automation support: “on-click” deployment, program tests, and automated deployment across environments, program tests execution included
