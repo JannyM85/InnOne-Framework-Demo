@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    {
+      "profile": "default,debug",
+      "assemblypath": "bin\\Debug"
+    },
+    {
+      "profile": "release",
+      "assemblypath": "bin\\Release"
+    }
+  ],
+  "earlyboundtypes": [
+    {
+      "entities": "account,contact,lead,phonecall,activityparty,activitypointer",
+      "actions": "",
+      "generateOptionsetEnums": true,
+      "generateGlobalOptionsets": true,
+      "generateStateEnums": true,
+      "filename": "EarlyBoundTypes.cs",
+      "classNamespace": "InnOne.CrmFramework.Demo",
+      "serviceContextName": "ServiceContext",
+      "oneTypePerFile": false
+    }
+  ]
+}

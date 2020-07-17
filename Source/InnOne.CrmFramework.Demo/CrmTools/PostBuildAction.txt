@@ -1,0 +1,5 @@
+﻿rename "$(TargetDir)$(TargetFileName)" "ForMerge$(TargetFileName)""
+
+"$(ProjectDir)CrmTools\ILMerge.exe" /keyfile:"$(ProjectDir)key.snk" /target:library /targetplatform:v4,C:\Windows\Microsoft.NET\Framework\v4.0.30319 /out:$(TargetFileName) ForMerge$(TargetFileName) Innone.Core.dll Innone.CrmFramework.dll Newtonsoft.Json.dll
+
+del "$(TargetDir)ForMerge$(TargetFileName)"

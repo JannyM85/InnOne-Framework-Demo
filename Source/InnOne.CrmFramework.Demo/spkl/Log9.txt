@@ -1,0 +1,4 @@
+11:39:21	© 2019 Microsoft Corporation. All rights reserved
+11:39:21	
+11:39:21	Loading config from 'C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.39\content\bin\coretools\spkl.crmsvcutil.config'
+11:39:30	Code written to C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\Innone.CrmFramework.TestPlugin365\bin\Debug\EarlyBoundTypes.cs.

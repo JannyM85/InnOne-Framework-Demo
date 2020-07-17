@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{33B4EA62-2CD8-4E46-BEA2-850482009BBB}"
+	ProjectSection(SolutionItems) = preProject
+		Release.bat = Release.bat
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnOne.CrmFramework.DemoTests", "InnOne.CrmFramework.DemoTests\InnOne.CrmFramework.DemoTests.csproj", "{C303A44F-ADAE-4F39-9CD2-E2B2ECD2A900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnOne.CrmFramework.Demo", "InnOne.CrmFramework.Demo\InnOne.CrmFramework.Demo.csproj", "{A9961851-933F-439E-BFFB-22C7ACCBA261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C303A44F-ADAE-4F39-9CD2-E2B2ECD2A900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C303A44F-ADAE-4F39-9CD2-E2B2ECD2A900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C303A44F-ADAE-4F39-9CD2-E2B2ECD2A900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C303A44F-ADAE-4F39-9CD2-E2B2ECD2A900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9961851-933F-439E-BFFB-22C7ACCBA261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9961851-933F-439E-BFFB-22C7ACCBA261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9961851-933F-439E-BFFB-22C7ACCBA261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9961851-933F-439E-BFFB-22C7ACCBA261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE5EED02-E10B-4842-B689-7A0A1485718D}
+	EndGlobalSection
+EndGlobal

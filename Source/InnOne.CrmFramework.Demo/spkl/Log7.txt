@@ -1,0 +1,25 @@
+09:41:24	© 2011 Microsoft Corporation.  All rights reserved.
+09:41:24	
+09:42:20	© 2011 Microsoft Corporation.  All rights reserved.
+09:43:25	© 2011 Microsoft Corporation.  All rights reserved.
+09:46:24	© 2019 Microsoft Corporation. All rights reserved
+09:46:24	
+09:46:24	Loading config from 'C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.39\content\bin\coretools\spkl.crmsvcutil.config'
+09:46:37	Code written to C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\Innone.CrmFramework.TestPlugin365\EarlyBoundTypes.cs.
+09:47:25	© 2019 Microsoft Corporation. All rights reserved
+09:47:25	
+09:47:25	Loading config from 'C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.39\content\bin\coretools\spkl.crmsvcutil.config'
+09:47:33	Code written to C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\Innone.CrmFramework.TestPlugin365\EarlyBoundTypes.cs.
+09:47:33	CrmSvcUtil : CRM Service Utility [Version 9.1.0.42]
+09:47:33	© 2019 Microsoft Corporation. All rights reserved
+09:47:33	
+09:47:33	Loading config from 'C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.39\content\bin\coretools\spkl.crmsvcutil.config'
+09:47:44	Code written to C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\Innone.CrmFramework.TestPlugin365\bin\Debug\EarlyBoundTypes.cs.
+10:14:32	© 2019 Microsoft Corporation. All rights reserved
+10:14:32	
+10:14:32	Loading config from 'C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.39\content\bin\coretools\spkl.crmsvcutil.config'
+10:14:44	Code written to C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\Innone.CrmFramework.TestPlugin365\EarlyBoundTypes.cs.
+11:50:56	© 2019 Microsoft Corporation. All rights reserved
+11:50:56	
+11:50:56	Loading config from 'C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.39\content\bin\coretools\spkl.crmsvcutil.config'
+11:51:11	Code written to C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\Innone.CrmFramework.TestPlugin365\EarlyBoundTypes.cs.

@@ -1,0 +1,10 @@
+09:46:38	CrmSvcUtil : CRM Service Utility [Version 9.1.0.42]
+09:46:38	© 2019 Microsoft Corporation. All rights reserved
+09:46:38	
+09:46:38	Loading config from 'C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.39\content\bin\coretools\spkl.crmsvcutil.config'
+09:46:54	Code written to C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\Innone.CrmFramework.TestPlugin365\bin\Debug\EarlyBoundTypes.cs.
+11:39:21	CrmSvcUtil : CRM Service Utility [Version 9.1.0.42]
+15:53:38	© 2019 Microsoft Corporation. All rights reserved
+15:53:38	
+15:53:38	Loading config from 'C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\packages\Microsoft.CrmSdk.CoreTools.9.1.0.39\content\bin\coretools\spkl.crmsvcutil.config'
+15:53:48	Code written to C:\_Tinn\InnOneFrameworks\DynamicsCrmFramework\src\Innone.CrmFramework.PluginTest365\Innone.CrmFramework.TestPlugin365\EarlyBoundTypes.cs.
