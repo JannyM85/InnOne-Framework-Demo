@@ -5,7 +5,7 @@ CDS Plugin Development Framework is distributed as Microsoft Solution, which all
 
 CDS Plugin Development Framework isn’t only a distributed solution. It comprises Innovation One methodology used for business analysis, composing of design documents, managing of source codes, solutions testing, as well as automated deployment process right from Microsoft Azure DevOps.
 
-Thanks to the benefits of CDS Plugin Development Framework the Innovation One s.r.o company can help you analyze your business requirements and set-up methods of development tailor-made right for your environments.
+Thanks to the benefits of CDS Plugin Development Framework the [Innovation One s.r.o](https://innone.cz/) company can help you analyze your business requirements and set-up methods of development tailor-made right for your environments. Our methodology includes a procedure for analysis writing, source codes organizing, solutions testing, as well as automated deployment right from Microsoft Azure DevOps.
 
 ## Key Properties
 - CDS Plugin Development Framework helps to achieve clear and understandable structure of coding 
@@ -20,6 +20,5 @@ Thanks to the benefits of CDS Plugin Development Framework the Innovation One s.
 - [CDS Plugin Development Framework EN](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BcoX)
 - [CDS Plugin Development Framework CZ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4zhHD)
 
-Our methodology includes a procedure for analysis writing, source codes organizing, solutions testing, as well as automated deployment right from Microsoft Azure DevOps.
 
-[Innovation One s.r.o](https://innone.cz/) with the support of CDS Plugin Development Framework can help you analyze your business issues and correctly set the methods of development tailor-made right to your needs
+
