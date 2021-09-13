@@ -16,6 +16,9 @@ Thanks to the benefits of CDS Plugin Development Framework the [Innovation One s
 - Value added logs from each Task execution
 - Visualization of the most problematic Tasks
 
+### Quick start
+-You can find [Quick start guide](https://github.com/JannyM85/InnOne-Framework-Demo/wiki/Quick-Start) on our wiky.
+
 ### Learn more
 - [CDS Plugin Development Framework EN](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BcoX)
 - [CDS Plugin Development Framework CZ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4zhHD)
